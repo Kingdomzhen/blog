@@ -1,2 +1,15 @@
 title: icci
 author: icci
+
+# ---------------- #
+#      Google      #
+# ---------------- #
+google:
+    analytics_id: G-EJS9LXEDSM
+    adsense:
+        enabled: true
+        footer: true
+        sidebar: true
+        sidebar-detail: true
+        content_header: true
+        content_footer: true
